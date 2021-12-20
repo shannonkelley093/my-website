@@ -3,4 +3,6 @@ This is a really awesome website
 
 Updates made on master
 
-##Updating in local side for conflict
+## Purpose
+This file is just a readme file
+
